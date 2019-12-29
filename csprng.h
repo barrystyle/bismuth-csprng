@@ -1,0 +1,2 @@
+int generateFile();
+int verifyFile();
